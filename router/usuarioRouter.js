@@ -10,3 +10,4 @@ router.get('/user/:correo', UsuarioController.buscarUsuario);
 
 
 module.exports=router;
+//por mi
